@@ -1,3 +1,3 @@
-# Brand Stuff
+# Product Identity Stuff
 
 A place to store new icons and stuff.
