@@ -1,3 +1,3 @@
 # Product Identity Stuff
 
-A place to store new icons and stuff.
+A place to store new icons and logos.
