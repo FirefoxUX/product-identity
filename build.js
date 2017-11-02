@@ -1,15 +1,11 @@
 const archiver = require('archiver');
 const fs = require('fs');
 const ncp = require('ncp').ncp;
-const rimrafSync = require('rimraf').sync;
 
 const DEST_DIR = 'dist';
 const HTML_DIR = 'html';
 const IMAGES_DIR = 'images';
 const ZIP_NAME = `${DEST_DIR}/firefox-product-identity-assets.zip`;
-
-rimrafSync(DEST_DIR);
-fs.mkdirSync(DEST_DIR);
 
 const _ = () => {};
 
